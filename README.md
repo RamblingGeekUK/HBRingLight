@@ -24,6 +24,6 @@ You need to install the following NeoPixel Lib first before these will run.
 
 ```sudo pip3 install rpi_ws281x adafruit-circuitpython-neopixel```
 
-GPIO Pins for Referencec
+GPIO Pins for Reference
 
 ![GPIO PINS](https://github.com/RamblingGeekUK/HBRingLight/blob/main/images/pins.png)
