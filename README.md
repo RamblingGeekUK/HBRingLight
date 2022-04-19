@@ -12,6 +12,7 @@ Ring 3 : Warm White LED's
 
 Thier are 5 cables in total.
 
+Cable Colour | Function
 Black - Ground
 Red - Power (5v)*
 Yellow - Warm White LED's
@@ -27,3 +28,14 @@ You need to install the following NeoPixel Lib first before these will run.
 GPIO Pins for Reference
 
 ![GPIO PINS](https://github.com/RamblingGeekUK/HBRingLight/blob/main/images/pins.png)
+
+Green  RGBW       18
+White  White Cool 23
+Yellow White Warm 24
+
+![IRL GPIO PINS](https://github.com/RamblingGeekUK/HBRingLight/blob/main/images/irlpins.png)
+
+
+The pixel.py has been configured with the above GPIO's Pins, run it with SUDO.
+
+```sudo python pixel.py```
