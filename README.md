@@ -33,7 +33,7 @@ Green  RGBW       18
 White  White Cool 23
 Yellow White Warm 24
 
-![IRL GPIO PINS](https://github.com/RamblingGeekUK/HBRingLight/blob/main/images/irlpins.png)
+![IRL GPIO PINS](https://github.com/RamblingGeekUK/HBRingLight/blob/main/images/irlpins.jpg)
 
 
 The pixel.py has been configured with the above GPIO's Pins, run it with SUDO.
