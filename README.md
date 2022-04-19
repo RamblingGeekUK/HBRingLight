@@ -26,4 +26,4 @@ You need to install the following NeoPixel Lib first before these will run.
 
 GPIO Pins for Referencec
 
-![GPIO PINS](https://github.com/RamblingGeekUK/HBRingLight/images/pins.png)
+![GPIO PINS](https://github.com/RamblingGeekUK/HBRingLight/blob/main/images/pins.png)
